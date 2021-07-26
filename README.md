@@ -17,6 +17,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucascurty&show_icons=true&theme=tokyonight">
 </div>
+<br>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=LucasCurty&color=red&labe=PROFILE+VIEWS" alt="lucascurty"></p>
 <div align="right">
   <p><strong>Sociais midias:</strong></p>
