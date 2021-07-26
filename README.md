@@ -17,7 +17,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lucascurty&show_icons=true&theme=tokyonight">
 </div>
-<p align="center"><img src="https://komarev.com/ghpvc/?username=LucasCurty&color=green&labe=PROFILE+VIEWS" alt="lucascurty"></p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=LucasCurty&color=red&labe=PROFILE+VIEWS" alt="lucascurty"></p>
 <div align="right">
   <p><strong>Sociais midias:</strong></p>
   <a href="https://www.instagram.com/ldcurty/"><img src="https://image.flaticon.com/icons/png/512/408/408707.png" alt=" meu instagram" width="30px"></a>
