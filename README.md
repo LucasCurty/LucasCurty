@@ -12,6 +12,7 @@
   <img src="https://image.flaticon.com/icons/png/512/888/888909.png" width="35px">
   <img src="https://image.flaticon.com/icons/png/512/888/888897.png" width="35px">
   <img src="https://image.flaticon.com/icons/png/512/541/541509.png" width="35px">
+  <img src="https://img.icons8.com/plasticine/2x/react.png" width="35px">
 </div>
 <br>
 <div align="center">
