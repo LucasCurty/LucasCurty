@@ -10,9 +10,9 @@
 <br>
 <div>
   <p>- 💻 What I'm currently studying:</p>
-  <img width="30em" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> solid base. ||
-  <img width="30em" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"> Beginner ||
-  <img width="30em" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"> Beginner
+  <img width="30em" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> Solidifying the base. ||
+  <img width="30em" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"> Starting studies ||
+  <img width="30em" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"> Starting studies
 </div>
 <br><br>
 <div align="center">
