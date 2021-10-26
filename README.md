@@ -2,10 +2,9 @@
   <h3> A dev starting your carrer.</h3> <p><img align="right" src="https://komarev.com/ghpvc/?username=LucasCurty&color=red&labe=PROFILE+VIEWS" alt="lucascurty"></p>
 <div>
   <h3> Known Technologies </h3>
-  <img src="https://image.flaticon.com/icons/png/512/888/888909.png" width="35px">°
-  <img src="https://image.flaticon.com/icons/png/512/888/888897.png" width="35px">°
-  <img src="https://image.flaticon.com/icons/png/512/541/541509.png" width="35px"> °
-  <img src="https://img.icons8.com/plasticine/2x/react.png" width="35px">
+  <img src="https://image.flaticon.com/icons/png/512/888/888909.png" width="35px">
+  <img src="https://image.flaticon.com/icons/png/512/888/888897.png" width="35px">
+  <img src="https://image.flaticon.com/icons/png/512/541/541509.png" width="35px">
 </div>
 <br>
 <div>
@@ -24,7 +23,7 @@
 <div align="right">
   <p><strong>Sociais midias:</strong></p>
   <a href="https://www.instagram.com/ldcurty/"><img src="https://image.flaticon.com/icons/png/512/408/408707.png" alt=" meu instagram" width="30px"></a>
-  <a href="https://twitter.com/Ldcurty"><img src="https://image.flaticon.com/icons/png/512/1322/1322042.png" alt=" meu twitter" width="30px"></a>
+  <a href="https://twitter.com/Ldcurty" target:"_blank"><img src="https://image.flaticon.com/icons/png/512/1322/1322042.png" alt=" meu twitter" width="30px"></a>
   <a href="https://www.linkedin.com/in/lucas-curty-97398b195/"><img src="https://image.flaticon.com/icons/png/512/1384/1384889.png" alt=" meu linkedin" width="30px"></a>
 </div>
 
