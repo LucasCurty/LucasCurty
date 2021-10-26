@@ -2,16 +2,16 @@
   <h3> A dev starting your carrer.</h3> <p><img align="right" src="https://komarev.com/ghpvc/?username=LucasCurty&color=red&labe=PROFILE+VIEWS" alt="lucascurty"></p>
 <div>
   <h3> Known Technologies </h3>
-  <img src="https://image.flaticon.com/icons/png/512/888/888909.png" width="35px">
-  <img src="https://image.flaticon.com/icons/png/512/888/888897.png" width="35px">
-  <img src="https://image.flaticon.com/icons/png/512/541/541509.png" width="35px">
+  <img src="https://image.flaticon.com/icons/png/512/888/888909.png" width="25px">
+  <img src="https://image.flaticon.com/icons/png/512/888/888897.png" width="25px">
+  <img src="https://image.flaticon.com/icons/png/512/541/541509.png" width="25px">
 </div>
 <br>
 <div>
   <p>- 💻 What I'm currently studying:</p>
-  <img width="30em" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> Solidifying the base. ||
-  <img width="30em" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"> Starting studies ||
-  <img width="30em" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"> Starting studies
+  <img align="center" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"> Solidifying the base. ||
+  <img align="center" width="25px" src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg"> Starting studies ||
+  <img align="center" width="25px" src="https://walde.co/wp-content/uploads/2016/09/nodejs_logo.png"> Starting studies
 </div>
 <br><br>
 <div align="center">
