@@ -10,12 +10,13 @@
  >  *What I'm currently studying:*<br>:books:<br>
   ![React](https://img.shields.io/badge/-React-fffffd?style=flat&logoColor=blue&logo=react)
   
-  ![graphic Git](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark) 
-  <br>
-  ![graphic Git](https://github-readme-stats.vercel.app/api?username=lucascurty&show_icons=true&theme=chartreuse-dark)
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=lucascurty&show_icons=true&theme=chartreuse-dark">
    
-
-##### *Midias:*
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=Linkedin&Color=withe)](https://www.linkedin.com/in/lucas-curty-97398b195/)
-[![Instagram](https://img.shields.io/badge/-instagram-B4348C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jjean_dev)](https://www.instagram.com/ldcurty/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/brunadl_)](https://twitter.com/Ldcurty)
+<hr>
+<h4><strong>Midias:</strong></h4>
+<div>
+  <a href="https://www.linkedin.com/in/lucas-curty-97398b195/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=Linkedin&Color=withe"></a>
+  <a href="https://www.instagram.com/ldcurty/"><img src="https://img.shields.io/badge/-instagram-B4348C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jjean_dev"></a>
+  <a href="https://twitter.com/Ldcurty"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/brunadl_"></a>
+</div>
