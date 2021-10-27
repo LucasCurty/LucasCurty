@@ -1,5 +1,5 @@
-<img align="right"  src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"><br>
-
+<img align="right"  src="https://www.teahub.io/photos/full/284-2841446_pixel-art-cyberpunk-gif.gif">
+<br><br>
 <h1>Hi there <img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" width="40px"> I'm Lucas Curty</h1>
   <p>A dev starting your carrer.</p>
  <h3>Known Technologies:</h3>
@@ -21,4 +21,4 @@
   <a href="https://www.linkedin.com/in/lucas-curty-97398b195/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=Linkedin&Color=withe"></a>
   <a href="https://www.instagram.com/ldcurty/"><img src="https://img.shields.io/badge/-instagram-B4348C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jjean_dev"></a>
   <a href="https://twitter.com/Ldcurty"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/brunadl_"></a>
-</div>
+</div>  
