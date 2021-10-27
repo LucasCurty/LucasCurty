@@ -1,18 +1,20 @@
-# Hi there <img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" width="40px"> I'm Lucas Curty
-   A dev starting your carrer.<br>
-   <img align="right" width="320px" src="https://media.giphy.com/media/bZVnr05ibCddKi5eFR/giphy.gif">
-   <br>
- ***Known Technologies:*** <br>💻<br>
- ![JavaScript](https://img.shields.io/badge/-JavaScript-fffffd?style=flat&logoColor=yellow&logo=javascript)
- ![HTML](https://img.shields.io/badge/-HTML-fffffd?style=flat&logoColor=orange&logo=html5) 
- ![CSS](https://img.shields.io/badge/-CSS-fffffd?style=flat&logoColor=blue&logo=css3)
- <br>  
- >  *What I'm currently studying:*<br>:books:<br>
-  ![React](https://img.shields.io/badge/-React-fffffd?style=flat&logoColor=blue&logo=react)
+<img align="right"  src="https://i.pinimg.com/originals/15/e7/e3/15e7e300166c962d3b8a22f60b5cac9e.gif"><br>
+
+<h1>Hi there <img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" width="40px"> I'm Lucas Curty</h1>
+  <p>A dev starting your carrer.</p>
+ <h3>Known Technologies:</h3>
+ <div>
+ <img src="https://img.shields.io/badge/-JavaScript-fffffd?style=flat&logoColor=yellow&logo=javascript">
+ <img src="https://img.shields.io/badge/-HTML-fffffd?style=flat&logoColor=orange&logo=html5">
+ <img src="https://img.shields.io/badge/-CSS-fffffd?style=flat&logoColor=blue&logo=css3">
+ </div>
+ <h3>What I'm currently studying:</h3>
+  <img src="https://img.shields.io/badge/-React-fffffd?style=flat&logoColor=blue&logo=react">
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=lucascurty&show_icons=true&theme=chartreuse-dark">
-   
+  <div align="center">
+    <img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark"> 
+    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=lucascurty&show_icons=true&theme=chartreuse-dark">
+  </div>
 <hr>
 <h4><strong>Midias:</strong></h4>
 <div>
