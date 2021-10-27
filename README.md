@@ -12,8 +12,8 @@
   <img src="https://img.shields.io/badge/-React-fffffd?style=flat&logoColor=blue&logo=react">
   
   <div align="center">
-    <img width="440px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark"> 
-    <img width="450px" src="https://github-readme-stats.vercel.app/api?username=lucascurty&show_icons=true&theme=chartreuse-dark">
+    <img width="380px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark"> 
+    <img width="400px" src="https://github-readme-stats.vercel.app/api?username=lucascurty&show_icons=true&theme=chartreuse-dark">
   </div>
 <hr>
 <h4><strong>Midias:</strong></h4>
