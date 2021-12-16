@@ -7,9 +7,10 @@
  <img src="https://img.shields.io/badge/-JavaScript-fffffd?style=flat&logoColor=yellow&logo=javascript">
  <img src="https://img.shields.io/badge/-HTML-fffffd?style=flat&logoColor=orange&logo=html5">
  <img src="https://img.shields.io/badge/-CSS-fffffd?style=flat&logoColor=blue&logo=css3">
+  <img src="https://img.shields.io/badge/-React-fffffd?style=flat&logoColor=blue&logo=react">
  </div>
  <h3>What I'm currently studying:</h3>
-  <img src="https://img.shields.io/badge/-React-fffffd?style=flat&logoColor=blue&logo=react">
+  <img src="https://img.shields.io/badge/-Node-fffffd?style=flat&logoColor=dark-green&logo=node.js">
   
   <div align="center">
     <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark"> 
