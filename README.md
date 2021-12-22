@@ -1,6 +1,5 @@
-<img align="right"  src="https://www.teahub.io/photos/full/284-2841446_pixel-art-cyberpunk-gif.gif">
-<br><br>
-<h1>Hi there <img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" width="40px"> I'm Lucas Curty</h1>
+<h1 align="center">Hello, I'm <img src="https://readme-typing-svg.herokuapp.com?font=&color=%238932F7&size=32&center=true&vCenter=true&width=200&height=28&lines=Lucas+Curty"><img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" width="40px"/> Welcome!</h1>
+<img align="right"  src="https://www.teahub.io/photos/full/284-2841446_pixel-art-cyberpunk-gif.gif"/>
   <p>A dev starting your carrer.</p>
  <h3>Known Technologies:</h3>
  <div>
