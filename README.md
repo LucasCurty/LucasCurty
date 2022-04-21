@@ -33,8 +33,7 @@
   
   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark)
    
-#### **Como me encontrar**
-<div>
+#### **Como me encontrar** ✌️😁
   <a href="https://www.linkedin.com/in/lucas-curty-97398b195/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=Linkedin&Color=withe"></a>
   <a href="https://www.instagram.com/ldcurty/"><img src="https://img.shields.io/badge/-instagram-B4348C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jjean_dev"></a>
   <a href="https://twitter.com/Ldcurty"><img src="https://img.shields.io/badge/-Twitter-0077B5?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/brunadl_"></a>
