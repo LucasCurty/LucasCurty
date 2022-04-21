@@ -15,6 +15,7 @@
   ![](https://img.shields.io/badge/-CSS-fffffd?style=flat&logoColor=blue&logo=css3)
   ![](https://img.shields.io/badge/-React.js-fffffd?style=flat&logoColor=blue&logo=react) 
   
+  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark"/>
   
   *Back-end* :⤵️
   
@@ -31,7 +32,7 @@
   >![](https://img.shields.io/badge/-TypeScript-fffffd?style=flat&logoColor=dark-green&logo=TypeScript) 
   #
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark)
+  
    
 #### **Como me encontrar** ✌️😁
   <a href="https://www.linkedin.com/in/lucas-curty-97398b195/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=Linkedin&Color=withe"></a>
