@@ -2,7 +2,7 @@
 
 **_Seja Bem-vindo!_**
 > - 🕵️‍ Atualmente estou procurando emprego como **Front-end**; Porém tenho interesse em **_back-end_** ou **_FullStack_**.
-> - 🙋‍♂️ Estou disposto a ser voluntário em algum projeto open sorce.
+> - 🙋‍♂️ Estou disposto a ser voluntário em algum projeto open source.
 > - 👨‍🏫 E também disposto a ajudar quem está começando. Então pode entrar em contato.
 > 
 ![](https://www.teahub.io/photos/full/284-2841446_pixel-art-cyberpunk-gif.gif)
