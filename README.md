@@ -1,4 +1,5 @@
-## Oi, eu sou o Lucas Curty ! <img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" width="40px"/>
+## Oi, eu sou o Lucas Curty ! <img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" height="40px"/>
+
 **_Seja Bem-vindo!_**
 > - 🕵️‍ Atualmente estou procurando emprego como **Front-end**; Porém tenho interesse em **_back-end_** ou **_FullStack_**.
 > - 🙋‍♂️ Estou disposto a ser voluntário em algum projeto open sorce.
