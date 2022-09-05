@@ -14,7 +14,8 @@
   >![](https://img.shields.io/badge/-JavaScript-fffffd?style=flat&logoColor=yellow&logo=javascript) 
   ![](https://img.shields.io/badge/-HTML-fffffd?style=flat&logoColor=orange&logo=html5)
   ![](https://img.shields.io/badge/-CSS-fffffd?style=flat&logoColor=blue&logo=css3)
-  ![](https://img.shields.io/badge/-React.js-fffffd?style=flat&logoColor=blue&logo=react) 
+  ![](https://img.shields.io/badge/-React.js-fffffd?style=flat&logoColor=blue&logo=react)
+  ![](https://img.shields.io/badge/-TypeScript-fffffd?style=flat&logoColor=dark-green&logo=TypeScript) 
   
   <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucascurty&layout=compact&langs_count=16&theme=chartreuse-dark"/>
   
@@ -30,7 +31,7 @@
  
 **_Tecnologias em que estou aprendendo a brincar:_** 
 
-  >![](https://img.shields.io/badge/-TypeScript-fffffd?style=flat&logoColor=dark-green&logo=TypeScript) 
+  >![](https://img.shields.io/badge/-Php-fffffd?style=flat&logoColor=dark-green&logo=Php) 
   #
   
   
