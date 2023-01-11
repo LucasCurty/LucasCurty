@@ -1,7 +1,7 @@
 ## Oi, eu sou o Lucas Curty ! <img src="https://github.com/kaueMarques/kaueMarques/raw/master/hi.gif" height="40px"/>
 
 **_Seja Bem-vindo!_**
-> - 🕵️‍ Atualmente estou procurando emprego como **Front-end**; Porém tenho interesse em **_back-end_** ou **_FullStack_**.
+> - 🕵️‍ Empregado fora da área porem, procurando minha primeira oportunidade como desenvolvedor.
 > - 🙋‍♂️ Estou disposto a ser voluntário em algum projeto open source.
 > - 👨‍🏫 E também disposto a ajudar quem está começando. Então pode entrar em contato.
 > 
