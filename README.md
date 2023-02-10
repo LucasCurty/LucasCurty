@@ -42,9 +42,10 @@
 
   >![](https://img.shields.io/badge/-Php-fffffd?style=flat&logoColor=dark-blue&logo=Php) 
   ![](https://img.shields.io/badge/-Python-fffffd?style=flat&logoColor=yellow&logo=Python) 
+  
+  <br>
+  
   #
-
-<br>
    
 #### **Como me encontrar** ✌️😁
   <a href="https://www.linkedin.com/in/lucas-curty-97398b195/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&labelColor=0A66C2&logo=Linkedin&Color=withe"></a>
