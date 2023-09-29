@@ -9,11 +9,9 @@
 
 <img width="70%" src="https://i.pinimg.com/originals/a0/e4/82/a0e48255ce8d676347e146cacae79998.gif" />
 
----
 
 **_Tecnologias:_**
 
-  <img align="right" width="45%" src="https://i.pinimg.com/originals/8b/35/fe/8b35fef55fba1a201c9c7a11d3ec3d64.gif" />
   
   ![](https://img.shields.io/badge/-JavaScript-fffffd?style=flat&logoColor=yellow&logo=javascript) 
   ![](https://img.shields.io/badge/-HTML-fffffd?style=flat&logoColor=orange&logo=html5)
