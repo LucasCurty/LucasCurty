@@ -1,7 +1,7 @@
 ## Oi, eu sou o Lucas Curty ! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" height="40px"/>
 
 **_Seja Bem-vindo!_**
-> - 🕵️‍ Desenvolvedor FullStack com C# e Javascript.
+> - 🕵️‍ Desenvolvedor Software.
 
 > - 👨‍🎓 Formado em Análise e desenvolvimento de sistemas.
 
