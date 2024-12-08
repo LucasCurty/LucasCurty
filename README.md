@@ -28,7 +28,8 @@
   ![](https://img.shields.io/badge/-Express.js-fffffd?style=flat&logoColor=006600&logo=express) 
   ![](https://img.shields.io/badge/-Tailwindcss-fffffd?style=flat&logoColor=0EA5E9&logo=tailwindcss) 
   ![](https://img.shields.io/badge/-Git-fffffd?style=flat&logoColor=Orange&logo=git)
-     
+  ![](https://img.shields.io/badge/-Nestjs-fffffd?style=flat&logoColor=EB3BB3&logo=nestjs)
+  ![](https://img.shields.io/badge/-Nestjs-fffffd?style=flat&logoColor=F54701&logo=firebase)
 #### **Como me encontrar** ✌️😁
   <a href="https://www.linkedin.com/in/lucas-curty-97398b195/"><img src="https://img.shields.io/badge/-Lucas Curty-0A66C2?style=flat&labelColor=0A66C2&logo=Linkedin&Color=withe"></a>
   <a href="https://www.instagram.com/ldcurty/"><img src="https://img.shields.io/badge/-ldcurty-B4348C?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/jjean_dev"></a>
