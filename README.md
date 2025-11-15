@@ -26,6 +26,9 @@
   ![](https://img.shields.io/badge/-Node.js-fffffd?style=flat&logoColor=dark-green&logo=node.js)
   ![](https://img.shields.io/badge/-Express.js-fffffd?style=flat&logoColor=006600&logo=express) 
   ![](https://img.shields.io/badge/-Nestjs-fffffd?style=flat&logoColor=EB3BB3&logo=nestjs)
+
+   ![](https://img.shields.io/badge/-.NET-fffffd?style=flat&logoColor=black&logo=dotnet)
+   ![](https://img.shields.io/badge/-CSharp-fffffd?style=flat&logoColor=black&logo=cSharp)
   
   ![](https://img.shields.io/badge/-Python-fffffd?style=flat&logoColor=blue&logo=Python) 
   ![](https://img.shields.io/badge/-Pandas-fffffd?style=flat&logoColor=B238EB&logo=pandas)
