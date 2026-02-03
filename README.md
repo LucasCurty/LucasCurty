@@ -1,11 +1,7 @@
 ## Oi, eu sou o Lucas Curty ! <img src="https://em-content.zobj.net/source/noto-emoji-animations/344/waving-hand_1f44b.gif" height="40px"/>
 
 **_Seja Bem-vindo!_**
-> - 🕵️‍ Desenvolvedor Software.
-
-> - 👨‍🎓 Formado em Análise e desenvolvimento de sistemas.
-
-> - 👨‍🏫 Estou disposto a ajudar quem está começando. Então pode entrar em contato.
+> - 🕵️‍ Desenvolvedor Software, formado em Análise e desenvolvimento de sistemas.
 
 <img width="70%" src="https://i.pinimg.com/originals/a0/e4/82/a0e48255ce8d676347e146cacae79998.gif" />
 
